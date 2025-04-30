@@ -38,4 +38,4 @@ El objetivo principal de este análisis es proporcionar una recomendación basad
 
 El análisis detallado en el cuaderno proporciona una recomendación clara sobre la tienda más adecuada para el Sr. Juan, respaldada por datos y visualizaciones. Se recomienda revisar el informe final dentro del cuaderno para obtener una comprensión completa de los hallazgos y la justificación de la recomendación.
 
-## Autor
+
